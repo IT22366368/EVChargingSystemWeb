@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\constants",
+    "\\src\\pages",
+    "\\src\\pages\\admin",
+    "\\src\\pages\\Auth",
+    "\\src\\pages\\bookings",
+    "\\src\\pages\\stationOperator",
+    "\\src\\services"
+  ],
+  "PreviewInSolutionExplorer": false
+}
